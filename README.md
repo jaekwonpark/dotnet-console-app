@@ -13,4 +13,3 @@ This is an simple example of .NET Core console application that has 3 projects.
 - To run the application, Go to src/DotNetConsoleApp/bin/Debug/netcoreapp1.0/ then run 'dotnet DotNetConsoleApp.dll'. You should see some trivial add output.
 
 You may also use Rider by loading DotNetConsoleApp.sln at the top level of this directory.
-
